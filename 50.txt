@@ -132,8 +132,6 @@ CCTV17,http://171.104.198.151:8181/tsfile/live/0019_1.m3u8
 CCTV17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 CCTV17,http://123.52.22.152:9901/tsfile/live/0019_1.m3u8
-CCTV中视购物,http://58.221.214.82:9901/tsfile/live/0013_2.m3u8
-CCTV教育,http://58.53.152.61:9901/tsfile/live/1000_1.m3u8
 三沙卫视,http://171.104.198.123:8181/tsfile/live/1029_1.m3u8
 三沙卫视,http://171.104.198.151:8181/tsfile/live/1029_1.m3u8
 CCTV赛事,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
@@ -590,14 +588,11 @@ CCTV-17咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=
 
 测试频道ᵛ𝟰,#genre#
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+凤凰中文,http://146.56.153.245:20121/bysid/258
+凤凰资讯,http://146.56.153.245:20121/bysid/257
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 KBC韩国,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国郊外,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-NHK新闻频英,http://61.221.215.25:8800/hls/51/index.m3u8
 tvbs闽南频特,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧频特,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧频特,http://61.221.215.25:8800/hls/39/index.m3u8
