@@ -851,10 +851,6 @@ http://58.221.214.82:9901/tsfile/live/0003_2.m3u8
 http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央卫综合ᵛ𝟰",CCTV17
 http://123.52.22.152:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-name="CCTV中视购物" tvg-logo="https://live.fanmingming.com/tv/CCTV中视购物.png" group-title="央卫综合ᵛ𝟰",CCTV中视购物
-http://58.221.214.82:9901/tsfile/live/0013_2.m3u8
-#EXTINF:-1 tvg-name="CCTV教育" tvg-logo="https://live.fanmingming.com/tv/CCTV教育.png" group-title="央卫综合ᵛ𝟰",CCTV教育
-http://58.53.152.61:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="央卫综合ᵛ𝟰",三沙卫视
 http://171.104.198.123:8181/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="央卫综合ᵛ𝟰",三沙卫视
@@ -1703,22 +1699,16 @@ http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
 #EXTINF:-1 tvg-name="香港 卫视" tvg-logo="https://live.fanmingming.com/tv/香港 卫视.png" group-title="测试频道ᵛ𝟰",香港 卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道ᵛ𝟰",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="测试频道ᵛ𝟰",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://live.fanmingming.com/tv/澳门卫视.png" group-title="测试频道ᵛ𝟰",澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+http://146.56.153.245:20121/bysid/258
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="测试频道ᵛ𝟰",凤凰资讯
+http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-name="NHTV" tvg-logo="https://live.fanmingming.com/tv/NHTV.png" group-title="测试频道ᵛ𝟰",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://live.fanmingming.com/tv/重温经典频道.png" group-title="测试频道ᵛ𝟰",重温经典频道
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="KBC韩国" tvg-logo="https://live.fanmingming.com/tv/KBC韩国.png" group-title="测试频道ᵛ𝟰",KBC韩国
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国郊外" tvg-logo="https://live.fanmingming.com/tv/韩国郊外.png" group-title="测试频道ᵛ𝟰",韩国郊外
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="NHK新闻频英" tvg-logo="https://live.fanmingming.com/tv/NHK新闻频英.png" group-title="测试频道ᵛ𝟰",NHK新闻频英
-http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 tvg-name="tvbs闽南频特" tvg-logo="https://live.fanmingming.com/tv/tvbs闽南频特.png" group-title="测试频道ᵛ𝟰",tvbs闽南频特
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧频特" tvg-logo="https://live.fanmingming.com/tv/三立戏剧频特.png" group-title="测试频道ᵛ𝟰",三立戏剧频特
