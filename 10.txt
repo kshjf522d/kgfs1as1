@@ -1060,8 +1060,8 @@ WAKUWAKU JAPAN,http://114.33.60.49:8538/http/60.251.39.91:8081/hls/61/803/ch03.m
 纬来体育,http://114.33.60.49:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8 
 ELEVEN SPORTS 1,http://114.33.60.49:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8 
 ELEVEN SPORTS 2,http://114.33.60.49:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-
-
+ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 
 𝔸𝕂𝕋𝕍频道,#genre#
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
