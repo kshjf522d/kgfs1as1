@@ -361,7 +361,25 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8
 经典电影,http://183.66.13.82:60033/tsfile/live/0111_2.m3u8
 吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8
-
+CCTV-16,http://106.111.244.151:5000/tsfile/live/0015_1.m3u8?key=txiptv
+深圳卫视,http://106.111.244.151:5000/tsfile/live/0126_1.m3u8?key=txiptv
+CGTN,http://106.111.244.151:5000/tsfile/live/0001_1.m3u8?key=txiptv
+央视文化精品,http://106.111.244.151:5000/tsfile/live/0001_2.m3u8?key=txiptv
+江苏综艺,http://106.111.244.151:5000/tsfile/live/0001_3.m3u8?key=txiptv
+江苏体育休闲,http://106.111.244.151:5000/tsfile/live/0001_4.m3u8?key=txiptv
+江苏卫视,http://106.111.244.151:5000/tsfile/live/0001_5.m3u8?key=txiptv
+北京卫视,http://106.111.244.151:5000/tsfile/live/0001_6.m3u8?key=txiptv
+东方卫视,http://106.111.244.151:5000/tsfile/live/0001_7.m3u8?key=txiptv
+湖南卫视,http://106.111.244.151:5000/tsfile/live/0001_8.m3u8?key=txiptv
+浙江卫视,http://106.111.244.151:5000/tsfile/live/0001_9.m3u8?key=txiptv
+优漫卡通,http://106.111.244.151:5000/tsfile/live/0001_10.m3u8?key=txiptv
+海南卫视,http://106.111.244.151:5000/tsfile/live/0001_11.m3u8?key=txiptv
+广东卫视,http://106.111.244.151:5000/tsfile/live/0001_12.m3u8?key=txiptv
+凤凰资讯,http://106.111.244.151:5000/tsfile/live/0001_13.m3u8?key=txiptv
+CNA,http://106.111.244.151:5000/tsfile/live/0001_14.m3u8?key=txiptv
+RTR,http://106.111.244.151:5000/tsfile/live/0001_17.m3u8?key=txiptv
+RT,http://106.111.244.151:5000/tsfile/live/0001_15.m3u8?key=txiptv
+CUBA,http://106.111.244.151:5000/tsfile/live/0001_18.m3u8?key=txiptv
 
 
 
