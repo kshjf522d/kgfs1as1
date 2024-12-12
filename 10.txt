@@ -1731,6 +1731,23 @@ CCTV15-音乐,http://58.53.152.101:9901/tsfile/live/faacts/0015_2.m3u8?key=txipt
 
 
 
+
+北京地区,#genre#
+北京卫视,http://dsk.cc/bjtv/btime.php?id=bjws$北京时间网
+北京文艺,http://dsk.cc/bjtv/btime.php?id=bjwy$北京时间网
+北京影视,http://dsk.cc/bjtv/btime.php?id=bjys$北京时间网
+北京财经,http://dsk.cc/bjtv/btime.php?id=bjcj$北京时间网
+北京生活,http://dsk.cc/bjtv/btime.php?id=bjsh$北京时间网
+北京新闻,http://dsk.cc/bjtv/btime.php?id=bjxw$北京时间网
+卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk$北京时间网
+北京卫视,http://dsk.cc/php/hndj.php?id=bjws$河南党教
+纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
+
+
+
+
+
+
 四川频道ᵛ𝟰,#genre#
 CDTV-01四川,http://171.213.128.110:8000/udp/239.93.0.16:5140
 SCTV-02四川,http://171.213.128.110:8000/udp/239.93.1.101:5140
