@@ -822,8 +822,6 @@ CCTN4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000086
 CCTN5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000087
 CCTN6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000088
 卫视频道ᵛ𝟰,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 甘肃卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000023
 四川卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000025
 河南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000027
