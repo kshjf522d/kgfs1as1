@@ -774,17 +774,27 @@ Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 
 
 浙江频道ᵛ𝟰,#genre#
+浙江卫视,https://tvbox.nat.netsite.cc:8043/proxy/2059640241/2059640241.m3u8
+浙江卫视,http://0a736a.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
+浙江钱江都市,https://tvbox.nat.netsite.cc:8043/proxy/2044904392/2044904392.m3u8
+浙江钱江都市,http://0a736a.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
+浙江经济生活,https://tvbox.nat.netsite.cc:8043/proxy/1529435983/1529435983.m3u8
+浙江经济生活,http://0a736a.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
+浙江民生休闲,https://tvbox.nat.netsite.cc:8043/proxy/991769224/991769224.m3u8
+浙江民生休闲,http://0a736a.tv.netsite.cc/proxy/991769224/991769224.m3u8
+浙江教育科技频道,https://tvbox.nat.netsite.cc:8043/proxy/1253636999/1253636999.m3u8
+浙江教育科技频道,http://0a736a.tv.netsite.cc/proxy/1253636999/1253636999.m3u8
+浙江新闻,https://tvbox.nat.netsite.cc:8043/proxy/2053951003/2053951003.m3u8
+浙江新闻,http://0a736a.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
+浙江教科影视,https://tvbox.nat.netsite.cc:8043/proxy/833196700/833196700.m3u8
+浙江教科影视,http://0a736a.tv.netsite.cc/proxy/833196700/833196700.m3u8
+浙江少儿频道,https://tvbox.nat.netsite.cc:8043/proxy/1658458613/1658458613.m3u8
+浙江少儿频道,http://0a736a.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
+浙江国际,https://tvbox.nat.netsite.cc:8043/proxy/2031903078/2031903078.m3u8
+浙江国际,http://0a736a.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
+浙江之江记录,https://tvbox.nat.netsite.cc:8043/proxy/1044187699/1044187699.m3u8
+浙江之江记录,http://0a736a.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
 
-浙江卫视,http://3ad2a0.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
-浙江钱江都市,http://3ad2a0.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
-浙江经济生活,http://3ad2a0.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
-浙江民生休闲,http://3ad2a0.tv.netsite.cc/proxy/991769224/991769224.m3u8
-浙江教育科技频道,http://3ad2a0.tv.netsite.cc/proxy/1253636999/1253636999.m3u8
-浙江新闻,http://3ad2a0.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
-浙江教科影视,http://3ad2a0.tv.netsite.cc/proxy/833196700/833196700.m3u8
-浙江少儿频道,http://3ad2a0.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
-浙江国际,http://3ad2a0.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
-浙江之江记录,http://3ad2a0.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
 
 综合频道,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
