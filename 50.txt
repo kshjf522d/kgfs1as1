@@ -215,6 +215,17 @@ CGTN,http://106.111.244.151:5000/tsfile/live/0001_1.m3u8?key=txiptv
 马鞍山公共,http://223.241.247.214:9901/tsfile/live/0017_1.m3u8
 湖南金鹰纪实,http://220.170.243.209:9901/tsfile/live/1007_1.m3u8
 
+江苏综艺,http://106.111.244.151:5000/tsfile/live/0001_3.m3u8?key=txiptv
+江苏体育,http://106.111.244.151:5000/tsfile/live/0001_4.m3u8?key=txiptv
+江苏卫视,http://106.111.244.151:5000/tsfile/live/0001_5.m3u8?key=txiptv
+东方卫视,http://106.111.244.151:5000/tsfile/live/0001_7.m3u8?key=txiptv
+北京卫视,http://106.111.244.151:5000/tsfile/live/0001_6.m3u8?key=txiptv
+湖南卫视,http://106.111.244.151:5000/tsfile/live/0001_8.m3u8?key=txiptv
+优漫卡通,http://106.111.244.151:5000/tsfile/live/0001_10.m3u8?key=txiptv
+浙江卫视,http://106.111.244.151:5000/tsfile/live/0001_9.m3u8?key=txiptv
+海南卫视,http://106.111.244.151:5000/tsfile/live/0001_11.m3u8?key=txiptv
+广东卫视,http://106.111.244.151:5000/tsfile/live/0001_12.m3u8?key=txiptv
+凤凰资讯,http://106.111.244.151:5000/tsfile/live/0001_13.m3u8?key=txiptv
 CUBA,http://106.111.244.151:5000/tsfile/live/0001_18.m3u8?key=txiptv
 CNA,http://106.111.244.151:5000/tsfile/live/0001_14.m3u8?key=txiptv
 RTR,http://106.111.244.151:5000/tsfile/live/0001_17.m3u8?key=txiptv
