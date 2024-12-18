@@ -924,6 +924,70 @@ Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 
 
 
+广西桂林ᵛ𝟰,#genre#
+珠江台,http://222.84.193.60:8181/tsfile/live/1065_1.m3u8?key=txiptv
+广西综艺,http://222.84.193.60:8181/tsfile/live/1055_1.m3u8?key=txiptv
+星河频道,http://222.84.193.60:8181/tsfile/live/1063_1.m3u8?key=txiptv
+广西影视,http://222.84.193.60:8181/tsfile/live/1059_1.m3u8?key=txiptv
+牛歌台1,http://222.84.193.60:8181/tsfile/live/1066_1.m3u8?key=txiptv
+牛哥台2,http://222.84.193.60:8181/tsfile/live/1067_1.m3u8?key=txiptv
+凤凰资讯,http://222.84.193.60:8181/tsfile/live/faacts/1069_1.m3u8?key=txiptv
+CCTV1-综合,http://222.84.193.60:8181/tsfile/live/faacts/0001_1.m3u8?key=txiptv
+CCTV2-财经,http://222.84.193.60:8181/tsfile/live/faacts/0002_1.m3u8?key=txiptv
+CCTV3-综艺,http://222.84.193.60:8181/tsfile/live/faacts/0003_1.m3u8?key=txiptv
+CCTV4-国际,http://222.84.193.60:8181/tsfile/live/faacts/0004_1.m3u8?key=txiptv
+CCTV5-体育,http://222.84.193.60:8181/tsfile/live/faacts/0005_1.m3u8?key=txiptv
+CCTV6-电影,http://222.84.193.60:8181/tsfile/live/faacts/0006_1.m3u8?key=txiptv
+CCTV7-军农,http://222.84.193.60:8181/tsfile/live/faacts/0007_1.m3u8?key=txiptv
+CCTV8-电视剧,http://222.84.193.60:8181/tsfile/live/faacts/0008_1.m3u8?key=txiptv
+CCTV9-纪录,http://222.84.193.60:8181/tsfile/live/faacts/0009_1.m3u8?key=txiptv
+CCTV10-科教,http://222.84.193.60:8181/tsfile/live/faacts/0010_1.m3u8?key=txiptv
+CCTV11-戏曲,http://222.84.193.60:8181/tsfile/live/faacts/0011_1.m3u8?key=txiptv
+CCTV12-社会与法,http://222.84.193.60:8181/tsfile/live/faacts/0012_1.m3u8?key=txiptv
+CCTV13-新闻,http://222.84.193.60:8181/tsfile/live/faacts/0013_1.m3u8?key=txiptv
+CCTV14-少儿,http://222.84.193.60:8181/tsfile/live/faacts/0014_1.m3u8?key=txiptv
+CCTV15-音乐,http://222.84.193.60:8181/tsfile/live/faacts/0015_1.m3u8?key=txiptv
+CCTV16,http://222.84.193.60:8181/tsfile/live/faacts/1000_1.m3u8?key=txiptv
+CCTV17,http://222.84.193.60:8181/tsfile/live/faacts/0019_1.m3u8?key=txiptv
+广西新闻,http://222.84.193.60:8181/tsfile/live/1057_1.m3u8?key=txiptv
+广西卫视,http://222.84.193.60:8181/tsfile/live/0113_1.m3u8?key=txiptv
+广西都市,http://222.84.193.60:8181/tsfile/live/1056_1.m3u8?key=txiptv
+中国气象,http://222.84.193.60:8181/tsfile/live/1010_1.m3u8?key=txiptv
+玉林综合,http://222.84.193.60:8181/tsfile/live/1009_1.m3u8?key=txiptv
+河北卫视,http://222.84.193.60:8181/tsfile/live/0117_1.m3u8?key=txiptv
+黑龙江卫视,http://222.84.193.60:8181/tsfile/live/0143_1.m3u8?key=txiptv
+贵州卫视,http://222.84.193.60:8181/tsfile/live/0120_1.m3u8?key=txiptv
+辽宁卫视,http://222.84.193.60:8181/tsfile/live/0121_1.m3u8?key=txiptv
+安徽卫视,http://222.84.193.60:8181/tsfile/live/1001_1.m3u8?key=txiptv
+江西卫视,http://222.84.193.60:8181/tsfile/live/1002_1.m3u8?key=txiptv
+深圳卫视,http://222.84.193.60:8181/tsfile/live/0126_1.m3u8?key=txiptv
+天津卫视,http://222.84.193.60:8181/tsfile/live/0135_1.m3u8?key=txiptv
+金鹰卡通,http://222.84.193.60:8181/tsfile/live/1071_1.m3u8?key=txiptv
+少儿动画,http://222.84.193.60:8181/tsfile/live/1072_1.m3u8?key=txiptv
+MV频道1,http://222.84.193.60:8181/tsfile/live/1068_1.m3u8?key=txiptv
+MV频道2,http://222.84.193.60:8181/tsfile/live/1064_1.m3u8?key=txiptv
+北流台,http://222.84.193.60:8181/tsfile/live/1084_1.m3u8?key=txiptv
+CCTV5+体育赛事,http://222.84.193.60:8181/tsfile/live/faacts/0016_1.m3u8?key=txiptv
+陕西卫视,http://222.84.193.60:8181/tsfile/live/0136_1.m3u8?key=txiptv
+西藏卫视,http://222.84.193.60:8181/tsfile/live/0111_1.m3u8?key=txiptv
+甘肃卫视,http://222.84.193.60:8181/tsfile/live/0141_2.m3u8?key=txiptv
+三沙卫视,http://222.84.193.60:8181/tsfile/live/1029_1.m3u8?key=txiptv
+云南卫视,http://222.84.193.60:8181/tsfile/live/0119_1.m3u8?key=txiptv
+山西卫视,http://222.84.193.60:8181/tsfile/live/0118_1.m3u8?key=txiptv
+宁夏卫视,http://222.84.193.60:8181/tsfile/live/0112_1.m3u8?key=txiptv
+兵团卫视,http://222.84.193.60:8181/tsfile/live/0115_1.m3u8?key=txiptv
+吉林卫视,http://222.84.193.60:8181/tsfile/live/0116_1.m3u8?key=txiptv
+玉林公共,http://222.84.193.60:8181/tsfile/live/1031_1.m3u8?key=txiptv
+新疆卫视,http://222.84.193.60:8181/tsfile/live/0110_1.m3u8?key=txiptv
+
+
+
+
+
+
+
+
+
 
 
 
