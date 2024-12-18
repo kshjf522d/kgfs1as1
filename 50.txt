@@ -104,6 +104,14 @@ CCTV15,http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV17,http://14.212.185.71:9901/tsfile/live/0017_1.m3u8
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
+CCTV1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV8,http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv
+
 CCTV央视文化精品,http://119.125.134.179:9901/tsfile/live/1041_1.m3u8
 CCTV第一剧场,http://119.125.134.179:9901/tsfile/live/1040_1.m3u8
 CCTV怀旧剧场,http://119.125.134.179:9901/tsfile/live/1006_1.m3u8
