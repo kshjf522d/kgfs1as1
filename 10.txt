@@ -704,6 +704,12 @@ Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 
+Mtavari Arxi,https://hls.t.stream-dns.net/hls/mtavari_1/_48d4a3bdc608950be84a346f7835553e_67666286x000e/index.m3u8
+TV Pirveli,https://hls.t.stream-dns.net/hls/tvpirveli_1/_8f48c4738842db8d962a21a5b42c82b1_676662b4x0010/index.m3u8
+Rustavi 1,https://hls.t.stream-dns.net/hls/imedi_1/_3c901b187dc0f10cbb21029fd84afea2_67666337x000c/index.m3u8
+Rustavi 2,https://hls.t.stream-dns.net/hls/rustavi2_1/_5de6cb6d332714371d696f34afae7d31_6766636ex000f/index.m3u8
+Maestro,https://hls.t.stream-dns.net/hls/maestro_1/_d7ad978cc1fcb3c9b41af6a2981b17d1_676663a6x000e/index.m3u8
+Formula,https://hls.t.stream-dns.net/hls/formula_1/_7a49b487678e608562b29516b44c04b2_67666374x000e/index.m3u8
 
 
 𝔸𝕂𝕋𝕍频道,#genre#
