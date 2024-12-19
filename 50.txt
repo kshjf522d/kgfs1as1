@@ -240,7 +240,6 @@ CCTV第一剧场,http://119.125.134.179:9901/tsfile/live/1040_1.m3u8
 
 
 CCTV-Live,#genre#
-CCTV-Live,#genre#
 CCTV-4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 CCTV-4k,http://f28cdb.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV-1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
