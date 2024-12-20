@@ -801,7 +801,6 @@ Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
 
 
-闽南4Gtv,#genre#
 
 
 粤港澳闽,#genre#
@@ -879,6 +878,7 @@ Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 浙江之江记录,https://tvbox.nat.netsite.cc:8043/proxy/1044187699/1044187699.m3u8
 浙江之江记录,http://d954f9.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
 
+民生频道(备用),http://60.186.204.148:4000/udp/233.50.201.136:5140
 
 综合频道,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
