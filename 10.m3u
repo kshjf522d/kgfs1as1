@@ -1197,6 +1197,126 @@ https://hls.t.stream-dns.net/hls/rustavi2_1/_5de6cb6d332714371d696f34afae7d31_67
 https://hls.t.stream-dns.net/hls/maestro_1/_d7ad978cc1fcb3c9b41af6a2981b17d1_676663a6x000e/index.m3u8
 #EXTINF:-1 tvg-name="Formula" tvg-logo="https://live.fanmingming.com/tv/Formula.png" group-title="测试频道ᵛ𝟰",Formula
 https://hls.t.stream-dns.net/hls/formula_1/_7a49b487678e608562b29516b44c04b2_67666374x000e/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="𝔸𝕂𝕋𝕍频道",翡翠台4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png" group-title="𝔸𝕂𝕋𝕍频道",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="𝔸𝕂𝕋𝕍频道",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="https://live.fanmingming.com/tv/千禧經典台(HK).png" group-title="𝔸𝕂𝕋𝕍频道",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="https://live.fanmingming.com/tv/娛樂新聞台(HK).png" group-title="𝔸𝕂𝕋𝕍频道",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://live.fanmingming.com/tv/日本全天新聞.png" group-title="𝔸𝕂𝕋𝕍频道",日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/明珠剧集台(北美).png" group-title="𝔸𝕂𝕋𝕍频道",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="𝔸𝕂𝕋𝕍频道",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.com/tv/無線新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://live.fanmingming.com/tv/美亞電影台(HK).png" group-title="𝔸𝕂𝕋𝕍频道",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠剧集台(北美).png" group-title="𝔸𝕂𝕋𝕍频道",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="𝔸𝕂𝕋𝕍频道",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠综合台(北美).png" group-title="𝔸𝕂𝕋𝕍频道",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="𝔸𝕂𝕋𝕍频道",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://live.fanmingming.com/tv/靖天電影台.png" group-title="𝔸𝕂𝕋𝕍频道",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="𝔸𝕂𝕋𝕍频道",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/鳳凰資訊.png" group-title="𝔸𝕂𝕋𝕍频道",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/鳳凰香港.png" group-title="𝔸𝕂𝕋𝕍频道",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黃金翡翠台.png" group-title="𝔸𝕂𝕋𝕍频道",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://live.fanmingming.com/tv/龍華日韓台.png" group-title="𝔸𝕂𝕋𝕍频道",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://live.fanmingming.com/tv/龍華經典台.png" group-title="𝔸𝕂𝕋𝕍频道",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://live.fanmingming.com/tv/龍華電影台.png" group-title="𝔸𝕂𝕋𝕍频道",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="https://live.fanmingming.com/tv/無線衛星新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="https://live.fanmingming.com/tv/无线新闻台(北美).png" group-title="𝔸𝕂𝕋𝕍频道",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="𝔸𝕂𝕋𝕍频道",東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/Now星影台.png" group-title="𝔸𝕂𝕋𝕍频道",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.com/tv/Now爆谷台.png" group-title="𝔸𝕂𝕋𝕍频道",Now爆谷台
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="𝔸𝕂𝕋𝕍频道",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="i-Fun 動漫台" tvg-logo="https://live.fanmingming.com/tv/i-Fun 動漫台.png" group-title="𝔸𝕂𝕋𝕍频道",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="𝔸𝕂𝕋𝕍频道",Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv 99" tvg-logo="https://live.fanmingming.com/tv/viutv 99.png" group-title="𝔸𝕂𝕋𝕍频道",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-name="viutv6 96" tvg-logo="https://live.fanmingming.com/tv/viutv6 96.png" group-title="𝔸𝕂𝕋𝕍频道",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="https://live.fanmingming.com/tv/Animax(HK).png" group-title="𝔸𝕂𝕋𝕍频道",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.com/tv/Astro AEC.png" group-title="𝔸𝕂𝕋𝕍频道",Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="https://live.fanmingming.com/tv/Astro iQIYI.png" group-title="𝔸𝕂𝕋𝕍频道",Astro iQIYI
+http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="https://live.fanmingming.com/tv/Astro Xing He.png" group-title="𝔸𝕂𝕋𝕍频道",Astro Xing He
+http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="𝔸𝕂𝕋𝕍频道",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="𝔸𝕂𝕋𝕍频道",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://live.fanmingming.com/tv/KIX.png" group-title="𝔸𝕂𝕋𝕍频道",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.com/tv/Love Nature HD.png" group-title="𝔸𝕂𝕋𝕍频道",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://live.fanmingming.com/tv/NHK World-Japan.png" group-title="𝔸𝕂𝕋𝕍频道",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="https://live.fanmingming.com/tv/NHK東京総合.png" group-title="𝔸𝕂𝕋𝕍频道",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="𝔸𝕂𝕋𝕍频道",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="𝔸𝕂𝕋𝕍频道",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="𝔸𝕂𝕋𝕍频道",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://live.fanmingming.com/tv/ZooMoo.png" group-title="𝔸𝕂𝕋𝕍频道",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="https://live.fanmingming.com/tv/亞洲新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="https://live.fanmingming.com/tv/東方衛視國際頻道.png" group-title="𝔸𝕂𝕋𝕍频道",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 8 HD.png" group-title="𝔸𝕂𝕋𝕍频道",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="https://live.fanmingming.com/tv/Channel U HD.png" group-title="𝔸𝕂𝕋𝕍频道",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.fanmingming.com/tv/myTV SUPER 18台.png" group-title="𝔸𝕂𝕋𝕍频道",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.com/tv/PopC.png" group-title="𝔸𝕂𝕋𝕍频道",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="𝔸𝕂𝕋𝕍频道",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="𝔸𝕂𝕋𝕍频道",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="𝔸𝕂𝕋𝕍频道",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="https://live.fanmingming.com/tv/TVBS-新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="𝔸𝕂𝕋𝕍频道",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="𝔸𝕂𝕋𝕍频道",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Plus即时频道" tvg-logo="https://live.fanmingming.com/tv/Plus即时频道.png" group-title="粤港澳闽",Plus即时频道
 https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="Plus即时频道" tvg-logo="https://live.fanmingming.com/tv/Plus即时频道.png" group-title="粤港澳闽",Plus即时频道
