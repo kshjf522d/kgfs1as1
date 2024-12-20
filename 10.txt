@@ -405,6 +405,7 @@ IPTV体育,http://118.248.167.239:8088/tsfile/live/0131_2.m3u8?key=txiptv
 
 
 
+
 CCTV-Live,#genre#
 CCTV-4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 CCTV-4k,http://f28cdb.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
@@ -4054,3 +4055,5 @@ QQ群481207295,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 不能及时更新,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 免费域名注册,https://www.pl10000.org/US.KG%E6%95%99%E7%A8%8B.mp4
 直播源IPTV分享系统,https://www.pl10000.org/29513.mp4
+更新时间,#genre#
+12/20-19:45,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
