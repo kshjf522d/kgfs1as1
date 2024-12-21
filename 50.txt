@@ -2754,12 +2754,12 @@ CCTV5+体育赛事,http://220.170.243.209:9901/tsfile/live/0016_1.m3u8?key=txipt
 吉林延边朝鲜语综合,http://d954f9.tv.netsite.cc/proxy/127471106/127471106.m3u8
 
 甘肃频道ᵛ𝟰,#genre#
-甘肃卫视,http://d954f9.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
-甘肃经济频道,http://d954f9.tv.netsite.cc/proxy/1373372389/1373372389.m3u8
-甘肃文化影视,http://d954f9.tv.netsite.cc/proxy/1573084994/1573084994.m3u8
-甘肃公共应急,http://d954f9.tv.netsite.cc/proxy/1726841360/1726841360.m3u8
-甘肃少儿频道,http://d954f9.tv.netsite.cc/proxy/1645236406/1645236406.m3u8
-甘肃都市频道,http://d954f9.tv.netsite.cc/proxy/1238488351/1238488351.m3u8
+甘肃卫视,http://d97e53.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
+甘肃经济频道,http://d97e53.tv.netsite.cc/proxy/1373372389/1373372389.m3u8
+甘肃文化影视,http://d97e53.tv.netsite.cc/proxy/1573084994/1573084994.m3u8
+甘肃公共应急,http://d97e53.tv.netsite.cc/proxy/1726841360/1726841360.m3u8
+甘肃少儿频道,http://d97e53.tv.netsite.cc/proxy/1645236406/1645236406.m3u8
+甘肃都市频道,http://d97e53.tv.netsite.cc/proxy/1238488351/1238488351.m3u8
 
 河北频道ᵛ𝟰,#genre#
 河北卫视,https://tvbox.nat.netsite.cc:8043/proxy/1385861493/1385861493.m3u8
@@ -3228,7 +3228,7 @@ CIBN影院,#genre#
 
 
 
-电影轮播1125,#genre#
+电影轮播,#genre#
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 NewTv黑莓电影,http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
@@ -3297,74 +3297,18 @@ NewTv动作电影,http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/22
 华语经典,http://120.77.28.4:8648/douyu.php?id=434971
 
 国语译制电影,http://120.77.28.4:8648/douyu.php?id=2436390
-第一滴血全集,http://rihou.cc:555/yy.php?id=1354932355
-敢死队全轮播,http://rihou.cc:555/yy.php?id=1382735573
-速度与激情集,http://rihou.cc:555/yy.php?id=1382736911
-漫威系列轮播,http://rihou.cc:555/yy.php?id=1354932402
-变形金刚轮播,http://rihou.cc:555/yy.php?id=1382736803
-哈利波特全集,http://rihou.cc:555/yy.php?id=1382745105
-夺宝奇兵全集,http://rihou.cc:555/yy.php?id=1382736833
-机械战警全集,http://rihou.cc:555/yy.php?id=1382736854
-古惑仔国轮播,http://rihou.cc:555/yy.php?id=1458015189
-黑衣一二轮播,http://rihou.cc:555/yy.php?id=1354930936
-叠影重重全集,http://rihou.cc:555/yy.php?id=1382735570
 经典美剧解说,http://120.77.28.4:8648/douyu.php?id=9123570
-雪中悍刀行剧,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11336592
-庆余年电视剧,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352960
 琅琊榜电视剧,http://zby.xjqxz.top/lyb/live.m3u8
-83射雕英雄传,http://rihou.cc:555/yy.php?id=1354210357
-95神雕侠侣粤,http://rihou.cc:555/yy.php?id=1354926637
-96笑傲江湖版,http://rihou.cc:555/yy.php?id=1354930909
-87经典红楼梦,http://rihou.cc:555/yy.php?id=1382745084
-新白娘子轮播,http://rihou.cc:555/yy.php?id=1354930969
-仙剑奇侠传剧,http://rihou.cc:555/yy.php?id=1382749903
-花千骨电视剧,http://rihou.cc:555/yy.php?id=1354943110
-鹊刀门传奇剧,http://rihou.cc:555/yy.php?id=1355344777
 三生三世轮播,http://zby.xjqxz.top/sssszss/live.m3u8
-芈月传电视剧,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352975
-延禧攻略轮播,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=26355864
-知否知否轮播,http://zby.xjqxz.top/zfzf/live.m3u8
-与凤行电视剧,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=26355866
-开端电视轮播,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342397
-我的体育老师,http://rihou.cc:555/yy.php?id=1382745169
-如果岁月轮播,http://rihou.cc:555/yy.php?id=1382736883
-流金岁月轮播,http://rihou.cc:555/yy.php?id=1382749906
 欢乐颂电视剧,http://120.77.28.4:8648/douyu.php?id=3756989
 好先生电视剧,http://120.77.28.4:8648/douyu.php?id=9650792
-我的前半生剧,http://rihou.cc:555/yy.php?id=1382735564
-伪装者电视剧,http://rihou.cc:555/yy.php?id=1354936244
-亮剑电视轮播,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=30080238
-雪豹电视轮播,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=29580970
-火蓝刀锋轮播,http://rihou.cc:555/yy.php?id=1382737892
-二炮手电视剧,http://rihou.cc:555/yy.php?id=1354930964
-炮神电视轮播,http://rihou.cc:555/yy.php?id=22089862
-风筝电视轮播,http://rihou.cc:555/yy.php?id=1354931585
-武林外传轮播,http://rihou.cc:555/yy.php?id=1355652820
 科幻Fans轮播,http://120.77.28.4:8648/douyu.php?id=3508304
 科幻解说轮播,http://120.77.28.4:8648/douyu.php?id=9338839
-笑声传奇轮播,http://rihou.cc:555/yy.php?id=1382736880
-笑傲帮集轮播,http://rihou.cc:555/yy.php?id=1382735555
-笑傲江湖一季,http://rihou.cc:555/yy.php?id=1382749896
-笑傲江湖二季,http://rihou.cc:555/yy.php?id=1382736914
-欢乐集结号播,http://rihou.cc:555/yy.php?id=1354931582
-欢乐集结号三,http://rihou.cc:555/yy.php?id=1382736822
-欢乐集结号四,http://rihou.cc:555/yy.php?id=1382736889
-脱口秀大会肆,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=30080243
-脱口秀大会伍,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352875
-吐槽大会京都,http://rihou.cc:555/yy.php?id=1354936210
-吐槽大会海天,http://rihou.cc:555/yy.php?id=1354932379
-吐槽大会二季,http://rihou.cc:555/yy.php?id=1354936145
-吐槽大会五季,http://rihou.cc:555/yy.php?id=1354889009
-娱乐扒叔轮播,http://120.77.28.4:8648/douyu.php?id=9624581
 粤语剧集轮播,http://120.77.28.4:8648/douyu.php?id=10338873
 粤语综艺轮播,http://120.77.28.4:8648/douyu.php?id=7919720
-粤语星爷电影,http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11336587
 粤语版电影一,http://120.77.28.4:8648/douyu.php?id=5033502
 粤语版电影二,http://120.77.28.4:8648/douyu.php?id=6566671
 粤语版电影三,http://120.77.28.4:8648/douyu.php?id=1226741
-星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典频道,http://120.76.248.139/live/bfgd/4200000635.m3u8
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光综合频视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 经典港剧频视,http://120.77.28.4:8648/douyu.php?id=9548850
 经典武侠频视,http://120.77.28.4:8648/douyu.php?id=338759
