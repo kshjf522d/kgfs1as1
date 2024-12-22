@@ -1141,6 +1141,72 @@ Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
 
 
+
+
+
+思密达,#genre#
+KBS1,http://125.133.0.83:9003//hls/1/index.m3u8
+KBS2,http://125.133.0.83:9003//hls/2/index.m3u8
+SBS,http://125.133.0.83:9003//hls/3/index.m3u8
+MBC,http://125.133.0.83:9003//hls/4/index.m3u8
+TV조선,http://125.133.0.83:9003//hls/5/index.m3u8
+EBS1,http://125.133.0.83:9003//hls/6/index.m3u8
+JTBC,http://125.133.0.83:9003//hls/7/index.m3u8
+tvN,http://125.133.0.83:9003//hls/8/index.m3u8
+MBN,http://125.133.0.83:9003//hls/9/index.m3u8
+연합뉴스,http://125.133.0.83:9003//hls/10/index.m3u8
+YTN,http://125.133.0.83:9003//hls/11/index.m3u8
+채널A,http://125.133.0.83:9003//hls/12/index.m3u8
+Mnet,http://125.133.0.83:9003//hls/13/index.m3u8
+ACTION 81,http://125.133.0.83:9003//hls/14/index.m3u8
+FIGHT,http://125.133.0.83:9003//hls/15/index.m3u8
+BilliARDS TV,http://125.133.0.83:9003//hls/16/index.m3u8
+kbs joy,http://125.133.0.83:9003//hls/17/index.m3u8
+THE LIFE,http://125.133.0.83:9003//hls/18/index.m3u8
+sky sports,http://125.133.0.83:9003//hls/19/index.m3u8
+Tvn sports,http://125.133.0.83:9003//hls/20/index.m3u8
+K바둑 140,http://125.133.0.83:9003//hls/21/index.m3u8
+OCN,http://125.133.0.83:9003//hls/23/index.m3u8
+OLIFE,http://125.133.0.83:9003//hls/24/index.m3u8
+채널J,http://125.133.0.83:9003//hls/25/index.m3u8
+asiaN 130,http://125.133.0.83:9003//hls/26/index.m3u8
+Inet,http://125.133.0.83:9003//hls/27/index.m3u8
+한국낚시방송120,http://125.133.0.83:9003//hls/28/index.m3u8
+OBS,http://125.133.0.83:9003//hls/29/index.m3u8
+ SBS plus,http://125.133.0.83:9003//hls/30/index.m3u8
+KBS drama,http://125.133.0.83:9003//hls/31/index.m3u8
+MBC drama,http://125.133.0.83:9003//hls/32/index.m3u8
+OCN  movies1,http://125.133.0.83:9003//hls/33/index.m3u8
+OCN movies2,http://125.133.0.83:9003//hls/34/index.m3u8
+SPOTVPRIME2,http://125.133.0.83:9003//hls/35/index.m3u8
+브레인TV,http://125.133.0.83:9003//hls/36/index.m3u8
+SPOTVPRIME,http://125.133.0.83:9003//hls/37/index.m3u8
+매일경제 95,http://125.133.0.83:9003//hls/38/index.m3u8
+인디필름69,http://125.133.0.83:9003//hls/39/index.m3u8
+spotv2,http://125.133.0.83:9003//hls/40/index.m3u8
+KBSN sports ,http://125.133.0.83:9003//hls/41/index.m3u8
+SBS spoyts,http://125.133.0.83:9003//hls/42/index.m3u8
+Jtbc golf,http://125.133.0.83:9003//hls/43/index.m3u8
+SBS golf,http://125.133.0.83:9003//hls/44/index.m3u8
+IB sport,http://125.133.0.83:9003//hls/45/index.m3u8
+MBC sports,http://125.133.0.83:9003//hls/46/index.m3u8
+CBS기독방송,http://125.133.0.83:9003//hls/47/index.m3u8
+TVN story,http://125.133.0.83:9003//hls/48/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 粤港澳闽,#genre#
 Plus即时频道,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
