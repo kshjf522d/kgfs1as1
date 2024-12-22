@@ -1747,6 +1747,100 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="𝔸𝕂𝕋𝕍频道",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://live.fanmingming.com/tv/KBS1.png" group-title="思密达",KBS1
+http://125.133.0.83:9003//hls/1/index.m3u8
+#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://live.fanmingming.com/tv/KBS2.png" group-title="思密达",KBS2
+http://125.133.0.83:9003//hls/2/index.m3u8
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://live.fanmingming.com/tv/SBS.png" group-title="思密达",SBS
+http://125.133.0.83:9003//hls/3/index.m3u8
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="思密达",MBC
+http://125.133.0.83:9003//hls/4/index.m3u8
+#EXTINF:-1 tvg-name="TV조선" tvg-logo="https://live.fanmingming.com/tv/TV조선.png" group-title="思密达",TV조선
+http://125.133.0.83:9003//hls/5/index.m3u8
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://live.fanmingming.com/tv/EBS1.png" group-title="思密达",EBS1
+http://125.133.0.83:9003//hls/6/index.m3u8
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://live.fanmingming.com/tv/JTBC.png" group-title="思密达",JTBC
+http://125.133.0.83:9003//hls/7/index.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="思密达",tvN
+http://125.133.0.83:9003//hls/8/index.m3u8
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://live.fanmingming.com/tv/MBN.png" group-title="思密达",MBN
+http://125.133.0.83:9003//hls/9/index.m3u8
+#EXTINF:-1 tvg-name="연합뉴스" tvg-logo="https://live.fanmingming.com/tv/연합뉴스.png" group-title="思密达",연합뉴스
+http://125.133.0.83:9003//hls/10/index.m3u8
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://live.fanmingming.com/tv/YTN.png" group-title="思密达",YTN
+http://125.133.0.83:9003//hls/11/index.m3u8
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://live.fanmingming.com/tv/채널A.png" group-title="思密达",채널A
+http://125.133.0.83:9003//hls/12/index.m3u8
+#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://live.fanmingming.com/tv/Mnet.png" group-title="思密达",Mnet
+http://125.133.0.83:9003//hls/13/index.m3u8
+#EXTINF:-1 tvg-name="ACTION 81" tvg-logo="https://live.fanmingming.com/tv/ACTION 81.png" group-title="思密达",ACTION 81
+http://125.133.0.83:9003//hls/14/index.m3u8
+#EXTINF:-1 tvg-name="FIGHT" tvg-logo="https://live.fanmingming.com/tv/FIGHT.png" group-title="思密达",FIGHT
+http://125.133.0.83:9003//hls/15/index.m3u8
+#EXTINF:-1 tvg-name="BilliARDS TV" tvg-logo="https://live.fanmingming.com/tv/BilliARDS TV.png" group-title="思密达",BilliARDS TV
+http://125.133.0.83:9003//hls/16/index.m3u8
+#EXTINF:-1 tvg-name="kbs joy" tvg-logo="https://live.fanmingming.com/tv/kbs joy.png" group-title="思密达",kbs joy
+http://125.133.0.83:9003//hls/17/index.m3u8
+#EXTINF:-1 tvg-name="THE LIFE" tvg-logo="https://live.fanmingming.com/tv/THE LIFE.png" group-title="思密达",THE LIFE
+http://125.133.0.83:9003//hls/18/index.m3u8
+#EXTINF:-1 tvg-name="sky sports" tvg-logo="https://live.fanmingming.com/tv/sky sports.png" group-title="思密达",sky sports
+http://125.133.0.83:9003//hls/19/index.m3u8
+#EXTINF:-1 tvg-name="Tvn sports" tvg-logo="https://live.fanmingming.com/tv/Tvn sports.png" group-title="思密达",Tvn sports
+http://125.133.0.83:9003//hls/20/index.m3u8
+#EXTINF:-1 tvg-name="K바둑 140" tvg-logo="https://live.fanmingming.com/tv/K바둑 140.png" group-title="思密达",K바둑 140
+http://125.133.0.83:9003//hls/21/index.m3u8
+#EXTINF:-1 tvg-name="OCN" tvg-logo="https://live.fanmingming.com/tv/OCN.png" group-title="思密达",OCN
+http://125.133.0.83:9003//hls/23/index.m3u8
+#EXTINF:-1 tvg-name="OLIFE" tvg-logo="https://live.fanmingming.com/tv/OLIFE.png" group-title="思密达",OLIFE
+http://125.133.0.83:9003//hls/24/index.m3u8
+#EXTINF:-1 tvg-name="채널J" tvg-logo="https://live.fanmingming.com/tv/채널J.png" group-title="思密达",채널J
+http://125.133.0.83:9003//hls/25/index.m3u8
+#EXTINF:-1 tvg-name="asiaN 130" tvg-logo="https://live.fanmingming.com/tv/asiaN 130.png" group-title="思密达",asiaN 130
+http://125.133.0.83:9003//hls/26/index.m3u8
+#EXTINF:-1 tvg-name="Inet" tvg-logo="https://live.fanmingming.com/tv/Inet.png" group-title="思密达",Inet
+http://125.133.0.83:9003//hls/27/index.m3u8
+#EXTINF:-1 tvg-name="한국낚시방송120" tvg-logo="https://live.fanmingming.com/tv/한국낚시방송120.png" group-title="思密达",한국낚시방송120
+http://125.133.0.83:9003//hls/28/index.m3u8
+#EXTINF:-1 tvg-name="OBS" tvg-logo="https://live.fanmingming.com/tv/OBS.png" group-title="思密达",OBS
+http://125.133.0.83:9003//hls/29/index.m3u8
+#EXTINF:-1 tvg-name="SBS plus" tvg-logo="https://live.fanmingming.com/tv/SBS plus.png" group-title="思密达",SBS plus
+http://125.133.0.83:9003//hls/30/index.m3u8
+#EXTINF:-1 tvg-name="KBS drama" tvg-logo="https://live.fanmingming.com/tv/KBS drama.png" group-title="思密达",KBS drama
+http://125.133.0.83:9003//hls/31/index.m3u8
+#EXTINF:-1 tvg-name="MBC drama" tvg-logo="https://live.fanmingming.com/tv/MBC drama.png" group-title="思密达",MBC drama
+http://125.133.0.83:9003//hls/32/index.m3u8
+#EXTINF:-1 tvg-name="OCN  movies1" tvg-logo="https://live.fanmingming.com/tv/OCN  movies1.png" group-title="思密达",OCN  movies1
+http://125.133.0.83:9003//hls/33/index.m3u8
+#EXTINF:-1 tvg-name="OCN movies2" tvg-logo="https://live.fanmingming.com/tv/OCN movies2.png" group-title="思密达",OCN movies2
+http://125.133.0.83:9003//hls/34/index.m3u8
+#EXTINF:-1 tvg-name="SPOTVPRIME2" tvg-logo="https://live.fanmingming.com/tv/SPOTVPRIME2.png" group-title="思密达",SPOTVPRIME2
+http://125.133.0.83:9003//hls/35/index.m3u8
+#EXTINF:-1 tvg-name="브레인TV" tvg-logo="https://live.fanmingming.com/tv/브레인TV.png" group-title="思密达",브레인TV
+http://125.133.0.83:9003//hls/36/index.m3u8
+#EXTINF:-1 tvg-name="SPOTVPRIME" tvg-logo="https://live.fanmingming.com/tv/SPOTVPRIME.png" group-title="思密达",SPOTVPRIME
+http://125.133.0.83:9003//hls/37/index.m3u8
+#EXTINF:-1 tvg-name="매일경제 95" tvg-logo="https://live.fanmingming.com/tv/매일경제 95.png" group-title="思密达",매일경제 95
+http://125.133.0.83:9003//hls/38/index.m3u8
+#EXTINF:-1 tvg-name="인디필름69" tvg-logo="https://live.fanmingming.com/tv/인디필름69.png" group-title="思密达",인디필름69
+http://125.133.0.83:9003//hls/39/index.m3u8
+#EXTINF:-1 tvg-name="spotv2" tvg-logo="https://live.fanmingming.com/tv/spotv2.png" group-title="思密达",spotv2
+http://125.133.0.83:9003//hls/40/index.m3u8
+#EXTINF:-1 tvg-name="KBSN sports" tvg-logo="https://live.fanmingming.com/tv/KBSN sports.png" group-title="思密达",KBSN sports
+http://125.133.0.83:9003//hls/41/index.m3u8
+#EXTINF:-1 tvg-name="SBS spoyts" tvg-logo="https://live.fanmingming.com/tv/SBS spoyts.png" group-title="思密达",SBS spoyts
+http://125.133.0.83:9003//hls/42/index.m3u8
+#EXTINF:-1 tvg-name="Jtbc golf" tvg-logo="https://live.fanmingming.com/tv/Jtbc golf.png" group-title="思密达",Jtbc golf
+http://125.133.0.83:9003//hls/43/index.m3u8
+#EXTINF:-1 tvg-name="SBS golf" tvg-logo="https://live.fanmingming.com/tv/SBS golf.png" group-title="思密达",SBS golf
+http://125.133.0.83:9003//hls/44/index.m3u8
+#EXTINF:-1 tvg-name="IB sport" tvg-logo="https://live.fanmingming.com/tv/IB sport.png" group-title="思密达",IB sport
+http://125.133.0.83:9003//hls/45/index.m3u8
+#EXTINF:-1 tvg-name="MBC sports" tvg-logo="https://live.fanmingming.com/tv/MBC sports.png" group-title="思密达",MBC sports
+http://125.133.0.83:9003//hls/46/index.m3u8
+#EXTINF:-1 tvg-name="CBS기독방송" tvg-logo="https://live.fanmingming.com/tv/CBS기독방송.png" group-title="思密达",CBS기독방송
+http://125.133.0.83:9003//hls/47/index.m3u8
+#EXTINF:-1 tvg-name="TVN story" tvg-logo="https://live.fanmingming.com/tv/TVN story.png" group-title="思密达",TVN story
+http://125.133.0.83:9003//hls/48/index.m3u8
 #EXTINF:-1 tvg-name="Plus即时频道" tvg-logo="https://live.fanmingming.com/tv/Plus即时频道.png" group-title="粤港澳闽",Plus即时频道
 https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="Plus即时频道" tvg-logo="https://live.fanmingming.com/tv/Plus即时频道.png" group-title="粤港澳闽",Plus即时频道
