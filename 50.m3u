@@ -3067,20 +3067,26 @@ http://d954f9.tv.netsite.cc/proxy/1505828605/1505828605.m3u8
 https://tvbox.nat.netsite.cc:8043/proxy/79237439/79237439.m3u8
 #EXTINF:-1 tvg-name="新疆少儿频道" tvg-logo="https://live.fanmingming.com/tv/新疆少儿频道.png" group-title="新疆频道ᵛ𝟰",新疆少儿频道
 http://d954f9.tv.netsite.cc/proxy/79237439/79237439.m3u8
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="湖北频道ᵛ𝟰",湖北影视
-http://27.18.87.79:8001/rtp/239.69.1.204:10866
-#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="湖北频道ᵛ𝟰",湖北公共新闻
-http://27.18.87.79:8001/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="湖北频道ᵛ𝟰",湖北卫视
+http://58.48.37.158:1111/tsfile/live/0018_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道ᵛ𝟰",湖北经视
-http://27.18.87.79:8001/rtp/239.69.1.41:9886
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="湖北频道ᵛ𝟰",湖北综合
-http://27.18.87.79:8001/rtp/239.69.1.42:9892
-#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="湖北频道ᵛ𝟰",湖北垄上
-http://27.18.87.79:8001/rtp/239.69.1.43:9898
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="湖北频道ᵛ𝟰",湖北生活
-http://27.18.87.79:8001/rtp/239.69.1.205:10872
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="湖北频道ᵛ𝟰",湖北教育
-http://27.18.87.79:8001/rtp/239.69.1.206:10878
+http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="湖北频道ᵛ𝟰",湖北影视
+http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="湖北频道ᵛ𝟰",湖北公共新闻
+http://58.48.37.158:1111/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="湖北电视台" tvg-logo="https://live.fanmingming.com/tv/湖北电视台.png" group-title="湖北频道ᵛ𝟰",湖北电视台
+http://58.48.37.158:1111/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="湖北频道ᵛ𝟰",武汉教育
+http://58.48.37.158:1111/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="武汉1新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉1新闻综合.png" group-title="湖北频道ᵛ𝟰",武汉1新闻综合
+http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="武汉2电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉2电视剧.png" group-title="湖北频道ᵛ𝟰",武汉2电视剧
+http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="武汉3科技生活" tvg-logo="https://live.fanmingming.com/tv/武汉3科技生活.png" group-title="湖北频道ᵛ𝟰",武汉3科技生活
+http://58.48.37.158:1111/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="武汉5文体" tvg-logo="https://live.fanmingming.com/tv/武汉5文体.png" group-title="湖北频道ᵛ𝟰",武汉5文体
+http://58.48.37.158:1111/tsfile/live/1006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育休闲ᵛ𝟰",五星体育
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主.png" group-title="体育休闲ᵛ𝟰",JJ斗地主
