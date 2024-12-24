@@ -581,8 +581,16 @@ UFC格斗精选,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=
 
 测试频道ᵛ𝟰,#genre#
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://146.56.153.245:20121/bysid/258
-凤凰资讯,http://146.56.153.245:20121/bysid/257
+
+凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 KBC韩国,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
