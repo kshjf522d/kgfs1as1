@@ -1001,8 +1001,6 @@ https://hls.t.stream-dns.net/hls/rustavi2_1/_5de6cb6d332714371d696f34afae7d31_67
 https://hls.t.stream-dns.net/hls/maestro_1/_d7ad978cc1fcb3c9b41af6a2981b17d1_676663a6x000e/index.m3u8
 #EXTINF:-1 tvg-name="Formula" tvg-logo="https://live.fanmingming.com/tv/Formula.png" group-title="测试频道ᵛ𝟰",Formula
 https://hls.t.stream-dns.net/hls/formula_1/_7a49b487678e608562b29516b44c04b2_67666374x000e/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="𝔸𝕂𝕋𝕍频道",翡翠台4K
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png" group-title="𝔸𝕂𝕋𝕍频道",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://live.fanmingming.com/tv/中天新聞台.png" group-title="𝔸𝕂𝕋𝕍频道",中天新聞台
@@ -1121,6 +1119,8 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="𝔸𝕂𝕋𝕍频道",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台4K.png" group-title="𝔸𝕂𝕋𝕍频道",翡翠台4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="KBS1" tvg-logo="https://live.fanmingming.com/tv/KBS1.png" group-title="思密达",KBS1
 http://125.133.0.83:9003//hls/1/index.m3u8
 #EXTINF:-1 tvg-name="KBS2" tvg-logo="https://live.fanmingming.com/tv/KBS2.png" group-title="思密达",KBS2
